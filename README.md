@@ -70,4 +70,4 @@ Enjoy using the Coming Soon Landing Page Template! If you have any questions or 
 ## Website Link
 
      Visit it
-     [here](https://harryregel.github.io/Coming-Soon-Landing-Page/)
+     [https://harryregel.github.io/Coming-Soon-Landing-Page/](url)
