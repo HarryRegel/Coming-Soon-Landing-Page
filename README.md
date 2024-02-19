@@ -1,10 +1,10 @@
-#Coming Soon Landing Page Template
+# Coming Soon Landing Page Template
 
-##Overview
+## Overview
 
 This Coming Soon Landing Page Template is a simple and elegant solution for creating anticipation and excitement for your upcoming website or product launch. It provides a clean and modern design, coupled with customizable features to help you create a stylish and effective coming soon page.
 
-##Features
+## Features
 
 - **Responsive Design:** Ensure a seamless experience across various devices and screen sizes.
   
