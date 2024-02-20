@@ -67,7 +67,5 @@ This Coming Soon Landing Page Template is open-source and available under the [M
 
 Enjoy using the Coming Soon Landing Page Template! If you have any questions or suggestions, feel free to reach out.
 
-## Website Link
-
-  [  [https://harryregel.github.io/Coming-Soon-Landing-Page/](url)
-     ]
+## Website Link  [https://harryregel.github.io/Coming-Soon-Landing-Page/]
+     
